@@ -1,7 +1,6 @@
 // Esta es mi función que suma dos números
-const sum = (a,b) => {
-    return a + b
-}
+const sum = (a,b) => a+b;
+
 // Solo un registro en consola para nosotros
 console.log(sum(7,3))
 // one euro is:
